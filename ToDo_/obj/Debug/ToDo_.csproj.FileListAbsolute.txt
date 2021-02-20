@@ -1,0 +1,15 @@
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\ToDo_.exe.config
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\ToDo_.exe
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\ToDo_.pdb
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\EntityFramework.dll
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\EntityFramework.xml
+D:\ADO.Net\ToDo_\ToDo_\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.csprojAssemblyReference.cache
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.Form1.resources
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.Properties.Resources.resources
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.csproj.GenerateResource.cache
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.csproj.CoreCompileInputs.cache
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.csproj.CopyComplete
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.exe
+D:\ADO.Net\ToDo_\ToDo_\obj\Debug\ToDo_.pdb
